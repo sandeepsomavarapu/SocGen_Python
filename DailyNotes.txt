@@ -150,21 +150,86 @@ homogeneous,haterogeneous
 		(CC*3/2)+1
 		set 10-->20-->40
 
+immutable
+
+a=10 			a---->10<----b
+b=10				  /\
+c=10				   c	
+
+c=20--->will create new object
+
+
+*Garbage COllection PYthon
+
+List:
+=======
+1)insertion order is preserved
+2)duplicates are allowed
+3)Homogeneous and Haterogeneous objects are allowed
+4)growable in nature
+5)[] square brackets
+6)muttable
 
 
 
+Tuple:
+=======
+1)insertion order is preserved
+2)duplicates are allowed
+3)Homogeneous and Haterogeneous objects are allowed
+4)() parenthosis
+5)imuttable
 
 
 
+Set:
+=======
+1)insertion order is not preserved
+2)duplicates are not allowed
+3)Homogeneous and Haterogeneous objects are allowed
+4)growable in nature
+5){} square brackets
+6)muttable
+7)index concept not applicable
+
+FrozenSet:
+=========
+1)insertion order is not preserved
+2)duplicates are not allowed
+3)Homogeneous and Haterogeneous objects are allowed
+4)not growable in nature
+5)({}) square brackets
+6)imuttable
+7)index concept not applicable
+
+dict:
+-----
+1)to represent group values as 	key-value pair
+2)key must be unique values can be duplicate
+3)key/value can be any datatype
+4)if we are trying to pass duplicate key then old value replaced with new value
+5)muttable
 
 
+range:
+=======
+	sequence of values
 
 
+python files
+			.py
 
+	IDE-->VSCODE
 
+	
 
-
-
-
-
-
+	3 lines -->functions--->code reusability
+	
+		def msg():
+			return "welcome"
+		
+		function 
+		function
+		def
+		print("")
+		
