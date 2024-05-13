@@ -1,0 +1,170 @@
+
+Python:
+=========
+
+Language:
+			communication with human
+		english,telugu
+Programming Language
+
+				communication with machine
+				
+				software-->its collection of programs
+							set of instructions
+
+			POP					OOP	
+B,BCPL,C,COBOL,PHOTON......		C++,java,python,.net.....
+
+
+				python
+
+Guido Van Rossam 1989
+
+ 1991 feb 20th
+ 
+	1.x
+	2.x
+	3.x
+
+
+	py --version
+
+
+	VSCOde
+
+
+	easy syntax
+
+
+	helloworld
+
+
+JAVA
+	welcome.java
+class Welcome
+{
+public static void main(String args[])
+{
+	System.out.println("welcome to india");
+}
+
+}	
+
+python
+
+	print("welcome to india")
+
+
+1)functional programming from C
+2)OOp from C++
+3)scrpting language features from shellscript
+4)modular programming Modula-3
+
+
+
+1)desktop apps/standalone apps		core python/tkinter
+2) web apps							django/flask
+3)db apps                           Pdbc
+4)networking apps
+5)AI
+6)DS
+7)ML
+8)DA
+9)IOT
+
+
+Features 
+========
+
+1)easy to learn
+		30+
+2)freeware  adn open source			python,jython
+3)Platform independent   
+4)dynamic typed							123,sandeep,12.3			
+5)library
+
+
+identifier:
+============
+	any name in python will call it as identifier
+a-z
+A-Z
+0-9		you can use digits but you cannot start digit
+_
+
+
+
+reserved words
+
+33
+
+
+'False', 'None', 'True', 'and', 'as', 'assert', 'async', 'await', 'break', 'class', 'continue', 'def',
+ 'del', 'elif', 'else', 'except', 'finally', 'for', 'from', 'global', 'if', 'import', 'in', 'is', 
+ 'lambda', 'nonlocal', 'not', 'or', 'pass', 'raise', 'return', 'try', 'while', 'with', 'yield'
+
+
+
+Datatypes:
+==========
+empid -123
+ename-->sandeep
+esal--23.45
+eadd-->hyd
+
+int
+float
+boolean
+string
+complex
+range
+		to hold group values
+list
+tuple
+set
+dict
+frozenset
+
+
+	type()
+	print()
+	id()
+	len()
+PVM--->address
+slice
+	input()
+
+	type casting
+
+12 -->"12"
+
+	12+12
+	"12"+12-->1212
+
+list--->group of values 
+
+duplicates are allowed
+insertion order is preserved 
+[]
+homogeneous,haterogeneous
+		(CC*3/2)+1
+		set 10-->20-->40
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
