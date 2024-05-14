@@ -233,3 +233,36 @@ python files
 		def
 		print("")
 		
+		String Slice
+		
+>>> data='abcdefghij'
+>>> data[1:6:2]
+'bdf'
+>>> data[1:6]
+'bcdef'
+>>> data[::1]
+'abcdefghij'
+>>> data[::2]
+'acegi'
+>>> data[::-1]
+'jihgfedcba'
+>>> data[::-2]
+'jhfdb'
+>>> data[1:9000]
+'bcdefghij'
+>>> data[1:9000:1]
+'bcdefghij'
+>>> data[1:9000:0]		
+
+
+
+lambda
+
+	def 
+	
+	
+	
+
+
+
+		
