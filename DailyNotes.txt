@@ -15,7 +15,8 @@ Programming Language
 			POP					OOP	
 B,BCPL,C,COBOL,PHOTON......		C++,java,python,.net.....
 
-
+								inheritance,poltmorphisam
+								encapsulation,abstraction
 				python
 
 Guido Van Rossam 1989
@@ -262,6 +263,132 @@ lambda
 	
 	
 	
+	FILES:
+	=========
+	
+	IO-->write and read
+
+		open
+		write
+		read
+		append
+		close
+		
+	 Regular Expressions:
+==========================	 
+
+
+
+OOPS:
+=======
+
+
+class
+
+			logical 			car,tree
+			physical		hyndai car,toyoto car,
+
+
+
+class
+	properties(attributes)-->variables
+	actions(behaviour)	  -->functions/methods
+
+
+
+	
+	instance variables(object level variables)
+	static variables(class level)
+	local variables(method level)
+	
+	
+	instance
+	class
+	static
+	
+	
+class Employee:
+
+	def	__init__(self)
+
+
+
+
+	instance variables(object level variables)
+	static variables(class level)
+	local variables(method level)
+
+
+	1)inside constructor by using self 
+	2)inside the method by using self
+	3)outside the class by using objref	
+		
+		
+Inheritance:
+============
+code reusability
+
+
+
+class A
+
+	20 methods
+	
+	
+class B(A)
+		
+		
+	30 methods
+
+
+
+Garbage Collection:
+
+garbage collector
+
+gc
+
+polymorphisam:
+=============
+
+
+
+public
+
+	name='india'#public inside the class and outside the class we can access
+	_name1='india'#protected inside the class but outside the class only when everit is child we can access
+	__atmpin=1111
+
+Exception Handling:
+=====================
+
+with out exception handling 
+
+1)system defined error message
+
+2)abnormal termination
+
+
+
+Advantages with  exception handling 
+
+1)user friendly error messages
+
+2)normal termination
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
