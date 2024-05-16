@@ -489,21 +489,29 @@ import os
 
 
 
+Openpyxl
+
+	workbook
+
+pip install openpyxl
 
 
 
+Database
 
-
-
-
-
-	
+		--->objects
 		
+			table,view,sequence,synonym,index....
+
+	table-->rows & columns
 		
+		oracle,mysql,db2,postgres,......
 		
+		MYSQL---->RDBMS
 		
+	PDBC-->mysql	
 		
-		
+		pip install mysql-connector 
 		
 			 
 
