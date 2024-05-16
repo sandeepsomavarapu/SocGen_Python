@@ -377,6 +377,115 @@ Advantages with  exception handling
 2)normal termination
 
 
+try--->risky/error code
+
+except
+
+finally
+
+raise
+
+	1) take one class make that as child to the Exception parent class
+	2) raise new exception()
+
+
+
+try--->
+
+except-->handling code 
+
+finally-->execute always							BaseException
+
+raise
+			Exception
+
+		try:    	valid
+		except
+		
+		
+		try			valid
+		finally
+		
+		try
+		except		valid
+		else
+		
+		try
+		finally     invalid
+		except
+		
+		try
+		except		valid
+		except 
+		
+		
+		try
+		except		invalid
+		else
+		else
+		
+		
+		try
+		except		invalid
+		finally
+		finally
+		
+		try
+			
+		print("welcome") invalid
+		
+		except
+		
+		try				valid
+		except
+		
+		try 
+		except
+		
+		try
+			try
+			except
+			finally			valid
+		except	
+		
+		try
+			
+		except	
+			try
+			except			valid
+			finally
+		
+		
+	modules:
+=============
+
+test.py
+
+a=123
+b=234
+def add():
+	
+	
+def sub():
+
+	
+
+one.py
+import test as t
+from test import add as sum,a
+from test import *
+import m1,m2,m3
+print(a)
+add()
+
+
+package-->folder-->modules-->functions-->variables.......
+
+
+
+OS
+
+import os
 
 
 
@@ -388,8 +497,14 @@ Advantages with  exception handling
 
 
 
-
-
-
+	
+		
+		
+		
+		
+		
+		
+		
+			 
 
 		
