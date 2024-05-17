@@ -547,7 +547,7 @@ Flask
 
 CrudProject:
 ===========
-python
+python  8000
 
 pip install django
 
@@ -577,4 +577,76 @@ py manage.py makemigrations
 py manage.py migrate
 
 forms
+
+Flask:
+=======
+armin ronacher
+
+	wsgi toolkit jinja template
+	
+	python
+	
+	pip install flask
+
+
+	venv
+
+
+5000
+
+2008 wes mckinney
+
+
+
+pandas
+
+
+dataframe object
+
+Series
+
+import pandas as pd
+import numpy as pd
+
+
+
+Flask Steps:
+
+pip install virtualenv
+virtualenv demo 				(create virtual env)
+demo\bin\scripts\activate							(activate)
+pip install flask
+
+
+pip install flask_mysqldb
+
+just run __init__.py
+
+
+@app.route("/url") to define url
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 		
