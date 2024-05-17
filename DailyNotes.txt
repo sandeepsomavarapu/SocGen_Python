@@ -513,6 +513,68 @@ Database
 		
 		pip install mysql-connector 
 		
-			 
+	Three layer application		 
 
+
+		UI Layer		Business layer    DB Layer
+		
+		uname
+		password
+
+ORM--->Object realtional mapping 
+
+DJango	-->python	frameworks
+
+2003 adrian holovaty and willison
+
+2005
+
+internationalization
+inbuilt 
+db  ->sqllite
+server
+
+MVC
+MVT
+DTL--
+
+								model
+user--->djnago--->url--->view
+								template
+
+Flask
+
+
+CrudProject:
+===========
+python
+
+pip install django
+
+database(MYSQL)
+
+IDE(Vscode)
+
+
+django-admin startproject crudproject
+
+cd crudproject
+
+py manage.py startapp crudapp
+
+py manage.py runserver
+
+settings.py configure db properties
+
+	'crispy_forms',
+    'crispy_bootstrap5',s
+
+
+crudapp/models.py
+
+
+py manage.py makemigrations
+py manage.py migrate
+
+forms
 		
